@@ -9,8 +9,20 @@ public class FirstClass {
     //yes we did
 // hi,this is Dilek
     //hi this is Esra!
+
     // Hi this is red
 //Second try
+
+
+    //Hello everyone, I may have conflict
+
+   //hello, it's Emine
+
+
+    // Hi this is red
+
+    //Second try
+
     // from Nurgul
     //from Mustafa
 
