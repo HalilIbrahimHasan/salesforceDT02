@@ -15,6 +15,13 @@ public class FirstClass {
 
 
     // Hi this is red
+
+//Second try
+
+
+
+ // hi everyonegit add .
+
    //Second try
 
 
@@ -37,11 +44,30 @@ public class FirstClass {
 
     // Hi this is red
 
+ // Red branch
+
+
     //Second try
 
     // from Nurgul
 
+    //hello
 
+
+
+
+
+
+
+
+
+        //hey there is no comment here
+
+
+
+
+
+    //Hello everyone here is a new update
 
     //from Mustafa
 
@@ -49,8 +75,49 @@ public class FirstClass {
 
 
 
+
     //this is from my branch
      //trying to push
+
+    // this is my new branch to remote from Furkan
+
+
+
+    //From Ercan after checking out branch "ercan"
+  
+    public static void tryMethod(){
+    //just to see the difference
+    }
+
+
+    //This is my new branch and I want to push it to remote
+
+
+
+
+
+
+
+// hello git has some organized structures
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //Hello Everyone here is a new update from Mustafa
+
+
+//Second try
+// new branch
+
 
 
 }
