@@ -15,6 +15,9 @@ public class FirstClass {
 
 
     // Hi this is red
+
+ // hi everyonegit add .
+
    //Second try
 
 
@@ -62,6 +65,7 @@ public class FirstClass {
     //from Mustafa
 
     //From Ercan after checking out branch "ercan"
+  
 public static void tryMethod{
     //just to see the difference
     }
@@ -84,6 +88,7 @@ public static void tryMethod{
 
 
     //Hello Everyone here is a new update from Mustafa
+
 
 //Second try
 // new branch
