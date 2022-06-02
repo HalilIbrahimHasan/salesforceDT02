@@ -69,10 +69,12 @@ public class FirstClass {
 
     //From Ercan after checking out branch "ercan"
   
-public static void tryMethod{
+    public static void tryMethod(){
     //just to see the difference
     }
 
+
+    //This is my new branch and I want to push it to remote
 
 
 
