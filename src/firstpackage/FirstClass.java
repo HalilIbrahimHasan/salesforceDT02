@@ -9,6 +9,6 @@ public class FirstClass {
     //yes we did
 // hi,this is Dilek
 
-    //hi this is Mústafa
 
+//hi this is Mústafa
 }
