@@ -10,4 +10,9 @@ public class FirstClass {
 // hi,this is Dilek
     //hi this is Esra!
 
+//hello, it's Emine
+
+    // Hi this is red
+
+//Second try
 }
