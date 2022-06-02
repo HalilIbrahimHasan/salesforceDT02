@@ -9,10 +9,74 @@ public class FirstClass {
     //yes we did
 // hi,this is Dilek
 
-//hello, it's Emine
+    //  Hi, This is Gulsum
+
+    //hi this is Esra!
+
+
+    // Hi this is red
+   //Second try
+
+
+  //hello, it's Emine
 
     // Hi this is red
 
+  //Second try
+
+    //hello
+
+    // hi!!
+
+
+
+    //Hello everyone, I may have conflict
+
+   //hello, it's Emine
+
+
+    // Hi this is red
+
+    //Second try
+
+    // from Nurgul
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //Hello everyone here is a new update
+
+    //from Mustafa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //Hello Everyone here is a new update from Mustafa
+
 //Second try
 // new branch
+
 }
