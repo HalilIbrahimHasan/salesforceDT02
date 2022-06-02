@@ -40,24 +40,24 @@ public class FirstClass {
 
     // Hi this is red
 
-<<<<<<< HEAD
+
 //hi it is Nurgul
-=======
+
  // Red branch
->>>>>>> master
+
 
 //heyyyyy
     //Second try
 
     // from Nurgul
-<<<<<<< HEAD
+
     //hello
     //hello world
-=======
+
 
     //hello
 
-
+//my new branch
 
 
 
@@ -104,5 +104,5 @@ public static void tryMethod{
 //Second try
 // new branch
 
->>>>>>> master
+
 }
