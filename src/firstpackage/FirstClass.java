@@ -15,15 +15,24 @@ public class FirstClass {
 
 
     // Hi this is red
+
 //Second try
 
 
 
-//hello, it's Emine
+ // hi everyonegit add .
+
+   //Second try
+
+
+  //hello, it's Emine
 
     // Hi this is red
 
-//Second try
+  //Second try
+
+    //hello
+
     // hi!!
 
 
@@ -35,17 +44,54 @@ public class FirstClass {
 
     // Hi this is red
 
+ // Red branch
+
+
     //Second try
 
     // from Nurgul
 
+    //hello
 
+
+
+
+
+
+
+
+
+        //hey there is no comment here
+
+
+
+
+
+    //Hello everyone here is a new update
 
     //from Mustafa
+
 
     // this is my new branch to remote from Furkan
 
 
+
+    //From Ercan after checking out branch "ercan"
+  
+    public static void tryMethod(){
+    //just to see the difference
+    }
+
+
+    //This is my new branch and I want to push it to remote
+
+
+
+
+
+
+=======
+// hello git has some organized structures
 
 
 
@@ -60,4 +106,12 @@ public class FirstClass {
 
 
     //Hello Everyone here is a new update from Mustafa
+
+=======
+
+
+//Second try
+// new branch
+
+
 }
