@@ -72,6 +72,13 @@ public class FirstClass {
     //from Mustafa
 
 
+
+
+
+
+    //this is from my branch
+     //trying to push
+
     // this is my new branch to remote from Furkan
 
 
@@ -90,7 +97,7 @@ public class FirstClass {
 
 
 
-=======
+
 // hello git has some organized structures
 
 
@@ -107,11 +114,10 @@ public class FirstClass {
 
     //Hello Everyone here is a new update from Mustafa
 
-=======
-
 
 //Second try
 // new branch
+
 
 
 }
