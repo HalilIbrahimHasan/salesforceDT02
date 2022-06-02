@@ -58,6 +58,12 @@ public class FirstClass {
 
     //from Mustafa
 
+    //From Ercan after checking out branch "ercan"
+public static void tryMethod{
+    //just to see the difference
+    }
+
+
 
 
 
