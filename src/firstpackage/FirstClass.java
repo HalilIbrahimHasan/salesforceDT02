@@ -8,7 +8,10 @@ public class FirstClass {
     //Hello dear developers, did you join?
     //yes we did
 // hi,this is Dilek
+    //hi this is Esra!
+    // Hi this is red
+//Second try
+    // from Nurgul
+    //from Mustafa
 
-
-//hi this is Mústafa
 }
