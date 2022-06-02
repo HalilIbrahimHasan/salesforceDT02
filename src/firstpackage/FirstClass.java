@@ -25,7 +25,7 @@ public class FirstClass {
 
 //Second try
     // hi!!
->>>>>>> fbf2ddd4a22e53e62460a4608c8c27fd686f5631
+
 
 
     //Hello everyone, I may have conflict
