@@ -14,13 +14,23 @@ public class FirstClass {
     //hi this is Esra!
 
 
+    // Hi this is red
 
-//hello, it's Emine
+ // hi everyonegit add .
+
+   //Second try
+
+
+  //hello, it's Emine
 
     // Hi this is red
 
-//Second try
+  //Second try
+
+    //hello
+
     // hi!!
+
 
 
     //Hello everyone, I may have conflict
@@ -30,10 +40,64 @@ public class FirstClass {
 
     // Hi this is red
 
+ // Red branch
+
+
     //Second try
 
     // from Nurgul
 
 
+//
     //gulsum's update last
+
+    //hello
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //Hello everyone here is a new update
+
+    //from Mustafa
+
+    //From Ercan after checking out branch "ercan"
+  
+public static void tryMethod{
+    //just to see the difference
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //Hello Everyone here is a new update from Mustafa
+
+
+//Second try
+// new branch
+
 }
