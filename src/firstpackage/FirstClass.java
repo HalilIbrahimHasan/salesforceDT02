@@ -14,12 +14,23 @@ public class FirstClass {
     //hi this is Esra!
 
 
+
 //hello, it's Emine
 
     // Hi this is red
 
 //Second try
     // hi!!
+
+
+    //Hello everyone, I may have conflict
+
+   //hello, it's Emine
+
+
+    // Hi this is red
+
+    //Second try
 
     // from Nurgul
 
