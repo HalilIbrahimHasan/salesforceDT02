@@ -13,10 +13,10 @@ public class FirstClass {
 
     //hi this is Esra!
 
-<<<<<<< HEAD
+
     // Hi this is red
 //Second try
-=======
+
 
 
 //hello, it's Emine
@@ -43,4 +43,21 @@ public class FirstClass {
 
     //from Mustafa
 
+    // this is my new branch to remote from Furkan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //Hello Everyone here is a new update from Mustafa
 }
