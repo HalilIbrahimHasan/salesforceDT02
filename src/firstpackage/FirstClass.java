@@ -73,8 +73,10 @@ public class FirstClass {
 
     //From Ercan after checking out branch "ercan"
   
-public static void tryMethod{
+public static void tryMethod(){
     //just to see the difference
+
+    //my new branch
     }
 
 
