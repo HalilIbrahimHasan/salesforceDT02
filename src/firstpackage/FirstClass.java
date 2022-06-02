@@ -24,7 +24,6 @@ public class FirstClass {
   //hello, it's Emine
 
     // Hi this is red
-    //hello from spain Ahmet Kaya
 
   //Second try
 
@@ -52,8 +51,6 @@ public class FirstClass {
 
 
 
-    // from Ahmet
-
 
 
 
@@ -80,6 +77,11 @@ public static void tryMethod{
     }
 
 
+    //This is my new branch and I want to push it to remote
+
+
+
+
 
 
 
@@ -101,7 +103,5 @@ public static void tryMethod{
 
 //Second try
 // new branch
-// hi ahmet kaya
-    // my branch ahmet
-    // for stash
+
 }
