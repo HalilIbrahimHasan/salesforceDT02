@@ -24,6 +24,7 @@ public class FirstClass {
   //hello, it's Emine
 
     // Hi this is red
+    //hello from spain Ahmet Kaya
 
   //Second try
 
@@ -51,6 +52,8 @@ public class FirstClass {
 
 
 
+    // from Ahmet
+
 
 
 
@@ -71,6 +74,9 @@ public class FirstClass {
   
 public static void tryMethod{
     //just to see the difference
+
+    //hi from ahmet
+    //this is a trial message
     }
 
 
@@ -95,5 +101,7 @@ public static void tryMethod{
 
 //Second try
 // new branch
-
+// hi ahmet kaya
+    // my branch ahmet
+    // for stash
 }
