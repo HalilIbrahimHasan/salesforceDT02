@@ -13,19 +13,21 @@ public class FirstClass {
 
     //hi this is Esra!
 
-<<<<<<< HEAD
-    // Hi this is red
-//Second try
-=======
-
-
-//hello, it's Emine
 
     // Hi this is red
+   //Second try
 
-//Second try
+
+  //hello, it's Emine
+
+    // Hi this is red
+
+  //Second try
+
+    //hello
+
     // hi!!
->>>>>>> fbf2ddd4a22e53e62460a4608c8c27fd686f5631
+
 
 
     //Hello everyone, I may have conflict
@@ -40,6 +42,19 @@ public class FirstClass {
     // from Nurgul
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+    //Hello everyone here is a new update
 
     //from Mustafa
 
@@ -58,5 +73,7 @@ public class FirstClass {
 
 
 
+
     //Hello Everyone here is a new update from Mustafa
+
 }
