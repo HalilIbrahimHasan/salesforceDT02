@@ -7,8 +7,16 @@ public class FirstClass {
 
     //Hello dear developers, did you join?
     //yes we did
+// hi,this is Dilek
+    //hi this is Esra!
 
     //Hello everyone, I may have conflict
 
+   //hello, it's Emine
 
+
+    // Hi this is red
+
+    //Second try
+    // from Nurgul
 }
