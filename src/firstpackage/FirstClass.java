@@ -8,6 +8,7 @@ public class FirstClass {
     //Hello1
     //Hello2
     //conflict resolved
+    //second conflict
 
     
 // hello8
