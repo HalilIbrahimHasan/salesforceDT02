@@ -5,8 +5,9 @@ public class FirstClass {
     //Welcome everyone to day 2 of Git
     //Hello dear developers, did you join?
     //Hello
-    //Create conflict
+    //Hello1
     //Hello2
+    //conflict resolved
 
     
 // hello8
